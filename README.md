@@ -2,7 +2,7 @@
 
 A full-stack cafe finder application with real-time geolocation and MongoDB integration.
 
-## Features
+## Features:
 
 This project started as a [frontend-only Cafe Finder App](https://github.com/YOUR-USERNAME/your-old-repo-name) built with vanilla JavaScript. I later evolved it into a full-stack application by:
 - 📍 Real-time location detection to find nearby cafes
@@ -10,15 +10,21 @@ This project started as a [frontend-only Cafe Finder App](https://github.com/YOU
 - 📱 Responsive design for all devices
 - 💾 MongoDB database integration with RESTful API
 
-## Tech Stack
+## Tech Stack:
 
 **Frontend:** HTML5, CSS3, JavaScript, Geolocation API  
 **Backend:** Node.js, Express.js, MongoDB, Mongoose  
 **Deployment:** Render (Backend), Vercel (Frontend), MongoDB Atlas
 
-## Local Setup
+## Live Demo:
 
-### Backend
+**Frontend:** [https://caffeconnect.vercel.app](https://caffeconnect.vercel.app)
+**Backend:** [https://cafeconnect-api.onrender.com](https://cafeconnect-api.onrender.com)  
+**Github:** [https://github.com/Kavyaa156/CaffeConnect](https://github.com/Kavyaa156/CaffeConnect)
+
+## Local Setup:
+
+### Backend:
 
 ```bash
 cd back-end
@@ -26,10 +32,10 @@ npm install
 npm start
 ```
 
-### Frontend
+### Frontend:
 
 Open `front-end/index.html` in your browser
 
-## Author
+## Author:
 
 **Kavyaa More** - [Github Profile](https://github.com/Kavyaa156)
