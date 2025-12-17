@@ -16,7 +16,9 @@ const port = process.env.PORT || 3000;
 const app = express();
 
 //use cors middleware
-app.use(cors());
+app.use(cors({
+  origin: "*"
+}));
 
 //middleware - to parse
 app.use(express.json());
