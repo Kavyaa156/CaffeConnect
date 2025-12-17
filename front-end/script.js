@@ -148,7 +148,7 @@ function getCurrentLocation() {
                 setTimeout(() => {
                     fetchCafe();
                     showScreen('cafe-list-screen');
-                }, 2000);
+                }, 20000);
             },
             // Options
             {
