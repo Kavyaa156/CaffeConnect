@@ -4,6 +4,7 @@ A full-stack cafe finder application with real-time geolocation and MongoDB inte
 
 ## Features
 
+This project started as a [frontend-only Cafe Finder App](https://github.com/YOUR-USERNAME/your-old-repo-name) built with vanilla JavaScript. I later evolved it into a full-stack application by:
 - 📍 Real-time location detection to find nearby cafes
 - 🗺️ Interactive cafe listings with images and details
 - 📱 Responsive design for all devices
@@ -31,4 +32,4 @@ Open `front-end/index.html` in your browser
 
 ## Author
 
-**Kavyaa More** - (https://github.com/Kavyaa156)
+**Kavyaa More** - [Github Profile](https://github.com/Kavyaa156)
