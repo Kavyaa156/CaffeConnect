@@ -21,7 +21,7 @@ function testScreens() {
 
 //fetch the cafe data
 function fetchCafe() {
-fetch('http://localhost:3000/api/cafes')
+fetch('https://cafeconnect-api.onrender.com/api/cafes')
     .then(response => response.json())
     .then(cafes => {
         mockCafes = cafes
